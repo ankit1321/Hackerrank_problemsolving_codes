@@ -6,3 +6,7 @@
 Firstly I tried this problem with bubble sort but for some test case "Time Out" occured.
 Hence I changed my sorting algorithm to Quick sort.
 But Bubble sort is also kept in comments. 
+
+#Bubble Sort
+
+Pseudo code for soorting is written and standard Input and Output is already given.[Whole code is shared with stdin and stdout].
