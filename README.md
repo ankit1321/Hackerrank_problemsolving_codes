@@ -9,4 +9,8 @@ But Bubble sort is also kept in comments.
 
 #Bubble Sort
 
-Pseudo code for soorting is written and standard Input and Output is already given.[Whole code is shared with stdin and stdout].
+Pseudo code for sorting is written and standard Input and Output is already given.[Whole code is shared with stdin and stdout].
+
+#Kangaroo
+
+Pseudo code for kangaroo jumping is written and standard Input and Output is already given.[Whole code is shared with stdin and stdout].
