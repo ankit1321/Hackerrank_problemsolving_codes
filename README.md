@@ -15,6 +15,3 @@ Pseudo code for sorting is written and standard Input and Output is already give
 
 Pseudo code for kangaroo jumping is written and standard Input and Output is already given.[Whole code is shared with stdin and stdout].
 
-#Printing_patterns_with loops
-
-Using looping concept pattern is printed and whole code is written in main function.Six loops are used for printing pattern.Loops can be reduced , if someone can reduce the loop and fork it.It will be grateful.
