@@ -15,3 +15,8 @@ Pseudo code for sorting is written and standard Input and Output is already give
 
 Pseudo code for kangaroo jumping is written and standard Input and Output is already given.[Whole code is shared with stdin and stdout].
 
+#Picking Numbers
+
+Function for picking numbers is bieng written by me to find maximum number of integers you can select from the array
+such that the absolute difference between any two of the chosen integers is <=1.
+
